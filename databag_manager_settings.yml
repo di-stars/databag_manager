@@ -1,0 +1,19 @@
+local_paths:
+    secretpath: /etc/chef/encrypted_data_bag_secret
+    temppath: /home/username/databag_temp
+    svnroot: /home/username/svn
+databags:
+    project01:
+         svn_path: /home/username/svn/department01/deployment/project01/data_bags/project01
+         items:
+            - mongodb_dev
+            - mongodb_qa
+            - mongodb_stg
+            - mongodb_prd
+    project02:
+         svn_path: /home/username/svn/department02/deployment/project02/data_bags/project02
+         items:
+            - tomcat_dev
+            - tomcat_qa
+            - tomcat_stg
+            - tomcat_prd
