@@ -1,7 +1,7 @@
 # Chef Databag Manager
 
 A simple command line tool to download, upload and commit encrypted databags to SVN. 
-I designed this for me to used for frequent Databag updates and thought maybe it could help others out there save some cycles. 
+I designed this for me to use for frequent Databag updates and thought maybe it could help others out there save some cycles. 
 This is intended to run on a Linux system, but that doesn't mean it won't work on Windows.
 I just have not tested it on Windows.
 
