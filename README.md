@@ -37,4 +37,4 @@ Options:
 
 ## Disclaimer
 
-Use at your own risk. I'm not responsible for any damage or data lose.  In otherwords... use it if you like, but don't be a dick if you don't like it. :)
+Use at your own risk. I'm not responsible for any damage or data lose.
